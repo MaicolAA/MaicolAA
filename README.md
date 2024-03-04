@@ -7,4 +7,3 @@
 - 📫 Puedes contactarme en +57 3128797122.
 - ⚡ Soy una estrella de rock.
 
-¡No dudes en echar un vistazo a mis repositorios y conectar conmigo!
