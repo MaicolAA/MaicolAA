@@ -6,7 +6,7 @@ Mi website: https://maicolaa.github.io/portafolio/
 
 
 - 🔭 Actualmente estoy trabajando en Mantum S.A.S.
-- 👯 Estoy interesado/a en colaborar en Desarrollos web profesionales.
+- 👯 Estoy interesado en colaborar en Desarrollos web profesionales.
 - 📫 Puedes contactarme en +57 3128797122 || maicolaroyave10@gmail.com 
 
   
@@ -14,8 +14,9 @@ Mi website: https://maicolaa.github.io/portafolio/
 
 - C#  Microservices .Net Core 
 - PHP + LARAVEL 
-- React JS  
-- HTML + CSS + SASS
+- React JS &  Next JS
+- Nest JS
+- HTML + CSS + Tawilind 
 - Unit Test (Codepception and Laravel test)
 - GIT, Gitlab, Github
 
